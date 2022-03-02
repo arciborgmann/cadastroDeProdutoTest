@@ -1,0 +1,6 @@
+<Context>
+   <Resource antiJARLocking="true" name="BeanManager"
+      auth="Container"
+      type="jakarta.enterprise.inject.spi.BeanManager"
+      factory="org.jboss.weld.resources.ManagerObjectFactory"/>
+</Context>
